@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a recipe website with links to several recipes. The goal is to demonstrate the creation of simple web pages and to practice adding links and images.
